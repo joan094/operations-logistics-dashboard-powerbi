@@ -1,0 +1,6 @@
+product_id,product_name,warehouse_id,stock_on_hand,reorder_level,last_restock_date
+201,Wireless Mouse,WH-EU-01,150,30,2026-08-20
+202,Mechanical Keyboard,WH-EU-01,12,25,2026-08-15
+203,USB-C Docking Station,WH-EU-02,80,20,2026-08-25
+204,27-inch Monitor,WH-EU-02,5,15,2026-08-10
+205,Ergonomic Chair,WH-EU-03,45,10,2026-08-28
